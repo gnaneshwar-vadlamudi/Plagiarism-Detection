@@ -4,7 +4,7 @@ This project implements a plagiarism detection system using the CORD-19 dataset 
 
 ## Sample Image
 
-![image](https://github.com/Gnaneshwar03/Plagiarism-Detection/assets/107243397/11c25dd3-5c08-43d8-934a-86d5d6e38fe0)
+![image](https://github.com/gnaneshwar-vadlamudi/Plagiarism-Detection/assets/107243397/11c25dd3-5c08-43d8-934a-86d5d6e38fe0)
 
 ## Features
 
@@ -25,7 +25,7 @@ This project implements a plagiarism detection system using the CORD-19 dataset 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/Gnaneshwar03/Transformers-based-Plagiarism-Detection
+   git clone https://github.com/gnaneshwar-vadlamudi/Plagiarism-Detection
    ```
 
 2. Install the required packages:
